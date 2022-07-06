@@ -1,7 +1,7 @@
 from random import randint
 
 
-class Rul:
+class Ruletka:
 
     def __init__(self):
         self.reds = (1, 3, 5, 7, 9, 12, 14, 16, 18, 21, 23, 25, 27, 30, 32, 34, 36)
