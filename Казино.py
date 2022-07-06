@@ -44,5 +44,5 @@ class Ruletka:
             return 'Вы проиграли'
 
 
-r = Rul()
+r = Ruletka()
 print(r.roll())
